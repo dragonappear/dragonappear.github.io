@@ -66,8 +66,8 @@ content:
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
         description: |
-          - 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
-          - 역할: 개인 프로젝트 Full-stack
+          - 프로젝트 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
+          - 담당 역할: 개인 프로젝트 풀스택
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
@@ -81,26 +81,37 @@ content:
             icon: fab fa-github
             url: https://github.com/dragonappear/running-with
         description: |
-          - 설명: 태그,장소 기반 온/오프라인 스터디 관리 웹서버 프로젝트
-          - 역할: 개인 프로젝트 Full-stack
+          - 프로젝트 설명: 태그,장소 기반 온/오프라인 스터디 관리 웹서버 프로젝트
+          - 담당 역할: 개인 프로젝트 풀스택
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA with QueryDSL
           - 개발 기능: 회원 CRUD/로그인, 태그,장소 기반 스터디 CRUD, 스터디 약속 CRUD, 비동기 알림 처리
+
+      - layout: left
+        border: weak  
+        title: Unopened Bro
+        caption: (2021.09~2021.11)
+        additional_links:
+          - title:  Unopened Bro github
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=t47cnhN-V9I
+        description: |
+          - 프로젝트 설명: 중고거래 플랫폼의 미개봉 전자제품 거래의 어려움을 해결하기 위해 개발한 프로젝트
+          - 팀 구성: 본인 포함 총 3명(백엔드 1명, 안드로이드 2명)
+          - 담당 역할: 풀스택 담당
+          - 사용 기술: Gradle, SpringBoot 2, JPA With QueryDSL, Thymeleaf, MariaDB
+          - 개발 기능: 회원가입/설정/로그인 API, 상품 관리 CRUD 페이지, 경매 제품 구매/판매 API, 결제모듈 API, FCM 전송, AWS 인프라
+          - 사용한 외부 라이브러리: Iamport, FCM
 
 
   - title: Education
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       2016.02~2022.02 인하대학교 컴퓨터공학과
 
 
 
-# Footer
-# footer_show_references: true
-# references_title: References on request (Override references text)
+footer_show_references: false
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
