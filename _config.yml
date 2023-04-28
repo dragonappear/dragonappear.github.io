@@ -36,26 +36,9 @@ content:
         title: 더블루아워
         sub_title: 백엔드 개발자
         caption: 2022.03~2022.10
+        link: https://www.moccozy.co.kr
         link_text: 서비스
         additional_links:
-          - title:  공식 홈페이지
-            icon: fab fa-globe
-            url: https://www.moccozy.co.kr
-
-          - title:  어플리케이션
-            icon: fab fa-google-play
-            url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
-
-      - layout: left
-        title: 더블루아워
-        sub_title: 백엔드 개발자
-        caption: 2022.03~2022.10
-        link_text: 서비스
-        additional_links:
-          - title:  공식 홈페이지
-            icon: fab fa-globe
-            url: https://www.moccozy.co.kr
-
           - title:  어플리케이션
             icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
