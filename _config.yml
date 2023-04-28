@@ -29,21 +29,41 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Worki
+  - title: Work
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+      - layout: left
+        title: 더블루아워
+        sub_title: 백엔드 개발자
+        caption: 2022.03~2022.10
+        link_text: 서비스
+        additional_links:
+          - title:  공식 홈페이지
+            icon: fab fa-globe
+            url: https://www.moccozy.co.kr
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+          - title:  어플리케이션
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
+
+      - layout: left
+        title: 더블루아워
+        sub_title: 백엔드 개발자
+        caption: 2022.03~2022.10
+        link_text: 서비스
+        additional_links:
+          - title:  공식 홈페이지
+            icon: fab fa-globe
+            url: https://www.moccozy.co.kr
+
+          - title:  어플리케이션
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
+
+        
+        
+  - title: Project 
+    layout: list 
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -63,24 +83,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
 
+
   - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: 인하대학교
-        sub_title: 컴퓨터공학과
-        caption: 2016 - 2022
-
-
-  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      2016.02~2022.02 인하대학교 컴퓨터공학과
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 
 # Footer
-footer_show_references: true
+# footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
