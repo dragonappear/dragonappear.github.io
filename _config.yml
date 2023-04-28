@@ -47,6 +47,7 @@ content:
           - Ehcache → 약 200% 데이터 조회 속도 개선
           - Prometheus, Grafana → JVM 시스템 모니터링 개발
           - ElasticStack→ 로그 수집 시스템 개발, 분석 및 시각화를 통해 데이터를 보는 기반 구축
+          - Logback, AWS Cloudwatch, SNS, Lambda, Slack -> 알람 시스템
           - Github Actions → CI/CD 자동화
 
           **Business**
