@@ -66,12 +66,12 @@ content:
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
         description: |
-          - 역할: 개인 프로젝트 Full-stack
           - 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
-          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
+          - 역할: 개인 프로젝트 Full-stack
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
+          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
-    content:
+
       - layout: left
         border: weak  
         title: SURLF
@@ -81,10 +81,10 @@ content:
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
         description: |
-          - 역할: 개인 프로젝트 Full-stack
           - 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
-          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
+          - 역할: 개인 프로젝트 Full-stack
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
+          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
 
 
