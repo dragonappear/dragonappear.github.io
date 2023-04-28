@@ -99,10 +99,19 @@ content:
           - 프로젝트 설명: 중고거래 플랫폼의 미개봉 전자제품 거래의 어려움을 해결하기 위해 개발한 프로젝트
           - 팀 구성: 본인 포함 총 3명(백엔드 1명, 안드로이드 2명)
           - 담당 역할: 풀스택 담당
-          - 사용 기술: Gradle, SpringBoot 2, JPA With QueryDSL, Thymeleaf, MariaDB
+          - 사용 기술: Gradle, Java 11, SpringBoot 2, JPA With QueryDSL, Thymeleaf, MariaDB
           - 개발 기능: 회원가입/설정/로그인 API, 상품 관리 CRUD 페이지, 경매 제품 구매/판매 API, 결제모듈 API, FCM 전송, AWS 인프라
           - 사용한 외부 라이브러리: Iamport, FCM
-
+  
+  - title: Skill
+    layout: text
+    content: | 
+      - **Frontend**: HTML, CSS, JavaScript
+      - **Backend**: Spring MVC, JPA, Spring Security, QueryDSL
+      - **DataBase**: MySQL, MariaDB
+      - **Monitoring:** ElasticStack, Prometheus, Grafana
+      - **Cloud:**  AWS(S3, EC2, RDS, Elastic Beanstalk, Lambda, CloudWatch, ECR 등등)
+      - **Virutalization:** Docker
 
   - title: Education
     layout: text
