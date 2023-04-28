@@ -61,15 +61,12 @@ content:
         border: weak  
         title: SURLF
         caption: (2023.04.05~2023.04.11) 
-        caption: 개인프로젝트 풀스택
         additional_links:
           - title:  SURLF github
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
-        description: | 
-          
-          images/surlf.gif
-
+        description: |
+          - [개인프로젝트- Full-stack 담당] 하루에 10억건의 트래픽을 수용하는 시스템 디자인 + URL 축소 API 및 Tracking 웹서버 프로젝트
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue, Redis, Kafka, ELK
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
