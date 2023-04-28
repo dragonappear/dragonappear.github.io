@@ -13,11 +13,11 @@ website: https://velog.io/@dragonappear
 github_username:  dragonappear
 linkedin_username: yoonyonghyun
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+  google:
+    tracking_id          : "G-QC60CGBRJF"
 
 # About Section
 about_title: About Me
