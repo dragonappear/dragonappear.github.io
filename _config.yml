@@ -40,6 +40,18 @@ content:
           - title:  어플리케이션
             icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
+        description: |
+          **Tech**
+          - 창립 멤버로서 혼자서 9개월 동안 [모꼬지 어플리케이션](https://play.google.com/store/apps/details?id=com.thebluehour.moccozy)에 필요한 모든 IT 서비스(DB, API 서버, 백오피스, AWS) 기획/개발/배포/운영
+          - Tech: Java 11, SpringBoot, JPA With QueryDSL, MariaDB, JUnit 5, Mockito
+          - Ehcache → 약 200% 데이터 조회 속도 개선
+          - Prometheus, Grafana → JVM 시스템 모니터링 개발
+          - ElasticStack→ 로그 수집 시스템 개발, 분석 및 시각화를 통해 데이터를 보는 기반 구축
+          - Github Actions → CI/CD 자동화
+
+          **Business**
+          - [대한노인회 경기도경로당광역 지원센터 MOU 체결](http://www.startupdaily.kr/news/articleView.html?idxno=1120)
+          - [제 3회 스마트 시니어G 지식인 선발대회 개최 및 API 개발 (약 200개 경로당이 참여한 대회)](https://www.100ssd.co.kr/news/articleView.html?idxno=92681)          
 
         
   - title: Project 
@@ -48,12 +60,16 @@ content:
       - layout: left
         border: weak  
         title: SURLF
-        caption: (2023.04.05~2023.04.11) 개인프로젝트 풀스택
+        caption: (2023.04.05~2023.04.11) 
+        caption: 개인프로젝트 풀스택
         additional_links:
           - title:  SURLF github
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
         description: | 
+          
+          images/surlf.gif
+
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue, Redis, Kafka, ELK
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
