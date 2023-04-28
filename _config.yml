@@ -22,7 +22,7 @@ linkedin_username: yoonyonghyun
 # About Section
 about_title: About Me
 about_profile_image: images/profile.jpeg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | 
   비즈니스 관점에서 프로덕트를 성장시키는 것에 관심이 많습니다. 이를 위해 빠르게 기획/개발/테스트/배포하는 능력과 데이터를 활용하여 고객을 이해하는 능력을 쌓고자 노력해왔습니다. 비즈니스는 혼자가 아닌 함께 만들 수 있다고 생각하기에, 팀 구성원들과 적극적으로 소통하고 협업해왔습니다.
   
   기술을 배우는 것을 좋아하고, 기본기를 단단히 하는 것에 관심이 많습니다. 사시사철 바뀌는 IT 기술을 익히고 그와 더불어 개발자의 기본 소양을 쌓기 위해 IT 블로그,책,강의를 보고 학습하는 것을 좋아합니다.
@@ -35,36 +35,28 @@ content:
       - layout: left
         title: 더블루아워
         sub_title: 백엔드 개발자
-        caption: 2022.03~2022.10
-        link: https://www.moccozy.co.kr
-        link_text: 서비스
+        caption: (2022.03.02~2022.10.31)
         additional_links:
           - title:  어플리케이션
             icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
 
         
-        
   - title: Project 
     layout: list 
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        border: weak  
+        title: SURLF
+        caption: (2023.04.05~2023.04.11) 개인프로젝트 풀스택
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  SURLF github
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+            url: https://github.com/dragonappear/SURLF
+        description: | 
+          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue, Redis, Kafka, ELK
+          - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
+          - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
 
 
   - title: Education
