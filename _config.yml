@@ -43,7 +43,7 @@ content:
         description: |
           **Tech**
           - 창립 멤버로서 혼자서 9개월 동안 [모꼬지 어플리케이션](https://play.google.com/store/apps/details?id=com.thebluehour.moccozy)에 필요한 모든 IT 서비스(DB, API 서버, 백오피스, AWS) 기획/개발/배포/운영
-          - Tech: Java 11, SpringBoot, JPA With QueryDSL, MariaDB, JUnit 5, Mockito
+          - Tech: Java 11, SpringBoot, JPA With QueryDsl, Thymeleaf, MariaDB, JUnit 5, Mockito
           - Ehcache → 약 200% 데이터 조회 속도 개선
           - Prometheus, Grafana → JVM 시스템 모니터링 개발
           - ElasticStack→ 로그 수집 시스템 개발, 분석 및 시각화를 통해 데이터를 보는 기반 구축
@@ -66,8 +66,23 @@ content:
             icon: fab fa-github
             url: https://github.com/dragonappear/SURLF
         description: |
-          - 프로젝트 설명: 개인 프로젝트 Full-stack
-                 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
+          - 역할: 개인 프로젝트 Full-stack
+          - 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
+          - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
+          - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
+          - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
+    content:
+      - layout: left
+        border: weak  
+        title: SURLF
+        caption: (2023.04.05~2023.04.11) 
+        additional_links:
+          - title:  SURLF github
+            icon: fab fa-github
+            url: https://github.com/dragonappear/SURLF
+        description: |
+          - 역할: 개인 프로젝트 Full-stack
+          - 설명: 하루에 10억건의 트래픽을 수용하는 시스템 디자인, URL 축소 API 및 Tracking 웹서버 프로젝트
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
           - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
