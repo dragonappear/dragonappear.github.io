@@ -7,29 +7,15 @@ version: 2
 
 # Personal info
 name: 윤용현
-title: Backend Engineer
+title: 백엔드 엔지니어
 email: dragonappear1@gmail.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
 website: https://velog.io/@dragonappear
-# website_title: Web (Website title override)
 
-# Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-# twitter_username: jekyllrb
 github_username:  dragonappear
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: yoonyonghyun
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
+
 
 
 # Additional icon links
@@ -48,16 +34,13 @@ linkedin_username: yoonyonghyun
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-# about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  비즈니스 관점에서 프로덕트를 성장시키는 것에 관심이 많습니다. 이를 위해 빠르게 기획/개발/테스트/배포하는 능력과 데이터를 활용하여 고객을 이해하는 능력을 쌓고자 노력해왔습니다. 비즈니스는 혼자가 아닌 함께 만들 수 있다고 생각하기에, 팀 구성원들과 적극적으로 소통하고 협업해왔습니다.
+  
+  기술을 배우는 것을 좋아하고, 기본기를 단단히 하는 것에 관심이 많습니다. 사시사철 바뀌는 IT 기술을 익히고 그와 더불어 개발자의 기본 소양을 쌓기 위해 IT 블로그,책,강의를 보고 학습하는 것을 좋아합니다.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
