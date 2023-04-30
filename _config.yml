@@ -23,12 +23,12 @@ about_content: |
 
 # Contents
 content:
-  - title: Work
+  - title: Work Experience
     layout: list
     content:
       - layout: left
         title: 더블루아워
-        sub_title: 백엔드 개발자
+        sub_title: 백엔드 에ㄴ지니어
         caption: (2022.03.02~2022.10.31)
         additional_links:
           - title:  어플리케이션
@@ -49,7 +49,7 @@ content:
           - [제 3회 스마트 시니어G 지식인 선발대회 개최 및 API 개발 (약 200개 경로당이 참여한 대회)](https://www.100ssd.co.kr/news/articleView.html?idxno=92681)          
 
         
-  - title: Project 
+  - title: Projects
     layout: list 
     content:
       - layout: left
@@ -101,7 +101,7 @@ content:
     layout: text
     content: | 
       - **Frontend**: HTML, CSS, JavaScript
-      - **Backend**: Spring MVC, JPA, Spring Security, QueryDSL
+      - **Backend**: Spring MVC, JPA with QueryDSL, Spring Security
       - **DataBase**: MySQL, MariaDB
       - **Monitoring:** ElasticStack, Prometheus, Grafana
       - **Cloud:**  AWS(S3, EC2, RDS, Elastic Beanstalk, Lambda, CloudWatch, ECR 등등)
