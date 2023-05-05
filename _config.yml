@@ -35,7 +35,6 @@ content:
             icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.thebluehour.moccozy
         description: |
-          **Tech**
           - 창립 멤버로서 혼자서 9개월 동안 [모꼬지 어플리케이션](https://play.google.com/store/apps/details?id=com.thebluehour.moccozy)에 필요한 모든 IT 서비스(DB, API 서버, 백오피스, AWS) 기획/개발/배포/운영
           - Tech: Java 11, SpringBoot, JPA With QueryDsl, Thymeleaf, MariaDB, JUnit 5, Mockito
           - Ehcache → 약 200% 데이터 조회 속도 개선
@@ -44,11 +43,6 @@ content:
           - AWS Cloudwatch, SNS, Lambda, Slack -> 알람 시스템 개발
           - Github Actions → CI/CD 자동화
 
-          **Business**
-          - [대한노인회 경기도경로당광역 지원센터 MOU 체결](http://www.startupdaily.kr/news/articleView.html?idxno=1120)
-          - [제 3회 스마트 시니어G 지식인 선발대회 개최 및 API 개발 (약 200개 경로당이 참여한 대회)](https://www.100ssd.co.kr/news/articleView.html?idxno=92681)          
-
-        
   - title: Projects
     layout: list 
     content:
