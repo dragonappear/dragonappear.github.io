@@ -59,7 +59,7 @@ content:
           - 팀/개인: 개인 프로젝트
           - 개발 기능: URL 축소 링크 생성, 축소 링크로 Origin URL Redirection, URL Tracking API, 비동기 이벤트 처리
           - 사용 기술: Gradle, Java 17, SpringBoot 3, JUnit 5, Mockito, JPA without QueryDSL, Vue3, Redis, Kafka, ELK
-          - 문제 해결: [TroubleShooting](https://github.com/dragonappear/SURLF#troubleshoot)
+          - 문제 해결: [Link](https://github.com/dragonappear/SURLF#troubleshoot)
 
       - layout: left
         border: weak  
